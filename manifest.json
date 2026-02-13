@@ -1,26 +1,20 @@
 {
-"name": "Orbit Tracer: Cosmic Escape",
-"short_name": "OrbitTracer",
-"description": "Un frenetico gioco di abilità spaziale dove devi saltare tra le orbite per sopravvivere.",
-"start_url": "index.html",
-"display": "standalone",
-"background_color": "#0f172a",
-"theme_color": "#38bdf8",
-"orientation": "portrait",
-"icons": [
-  {
-    "src": "icon.png",
-    "sizes": "512x512",
-    "type": "image/png",
-    "purpose": "any"
-  },
-  {
-    "src": "icon.png",
-    "sizes": "192x192",
-    "type": "image/png",
-    "purpose": "any"
-  }
-]
+  "name": "Orbit Tracer: Cosmic Escape",
+  "short_name": "OrbitTracer",
+  "description": "Un frenetico gioco di abilità spaziale dove devi saltare tra le orbite per sopravvivere.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#38bdf8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
 }
+
 
 
